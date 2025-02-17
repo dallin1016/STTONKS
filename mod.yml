@@ -1,0 +1,12 @@
+title: STTONKS
+originalAuthor: dallin1016
+description: STTONKS
+assets:
+- name: remastered/map/hb26.map/-122.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.map/-122.dds
+- name: remastered/map/hb26.map/-123.dds
+  method: copy
+  source:
+  - name: remastered/map/hb26.map/-123.dds
