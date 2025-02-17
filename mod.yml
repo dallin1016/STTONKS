@@ -2,6 +2,16 @@ title: STTONKS
 originalAuthor: dallin1016
 description: STTONKS
 assets:
+- name: remastered/map/hb26.map/-96.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered/hb26.map/-96.dds
+- name: remastered/map/hb26.map/-97.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered/hb26.map/-97.dds
 - name: remastered/map/hb26.map/-122.dds
   platform: pc
   method: copy
